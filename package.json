@@ -1,0 +1,32 @@
+{
+  "name": "typhoon",
+  "version": "0.1.0",
+  "description": "Help you get the typhoon information",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/typhoon.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giscafer/typhoon.git"
+  },
+  "keywords": [
+    "typhoon",
+    "台风",
+    "飓风",
+    "天气"
+  ],
+  "author": "giscafer <giscafer@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/giscafer/typhoon/issues"
+  },
+  "homepage": "https://github.com/giscafer/typhoon#readme",
+  "dependencies": {
+    "superagent": "^2.3.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.1.2"
+  }
+}
