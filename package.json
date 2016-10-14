@@ -1,5 +1,5 @@
 {
-  "name": "typhoon",
+  "name": "node-typhoon",
   "version": "0.1.0",
   "description": "Help you get the typhoon information",
   "main": "index.js",
@@ -8,10 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/giscafer/typhoon.git"
+    "url": "git+https://github.com/giscafer/node-typhoon.git"
   },
   "keywords": [
     "typhoon",
+    "node-typhoon",
     "台风",
     "飓风",
     "天气"
@@ -19,9 +20,9 @@
   "author": "giscafer <giscafer@outlook.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/giscafer/typhoon/issues"
+    "url": "https://github.com/giscafer/node-typhoon/issues"
   },
-  "homepage": "https://github.com/giscafer/typhoon#readme",
+  "homepage": "https://github.com/giscafer/node-typhoon#readme",
   "dependencies": {
     "superagent": "^2.3.0"
   },
