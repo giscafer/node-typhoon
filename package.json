@@ -1,6 +1,6 @@
 {
   "name": "node-typhoon",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Help you get the typhoon information",
   "main": "index.js",
   "scripts": {
