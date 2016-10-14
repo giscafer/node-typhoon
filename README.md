@@ -2,7 +2,7 @@
 
  > **node-typhoon** is a javascript for nodejs library to help you get the typhoon information,including real-time or historical information.
 
- [![npm](https://img.shields.io/npm/v/node-typhoon.svg?style=flat-square)](https://www.npmjs.com/package/node-typhoon) [![npm](https://img.shields.io/npm/dt/node-typhoon.svg?style=flat-square)](https://www.npmjs.com/package/node-typhoon) [![npm](https://img.shields.io/npm/l/node-typhoon.svg?style=flat-square)](https://www.npmjs.com/package/node-typhoon)
+ [![Build Status](https://travis-ci.org/giscafer/node-typhoon.svg?branch=master)](https://travis-ci.org/giscafer/node-typhoon) [![npm](https://img.shields.io/npm/v/node-typhoon.svg?style=flat-square)](https://www.npmjs.com/package/node-typhoon) [![npm](https://img.shields.io/npm/dt/node-typhoon.svg?style=flat-square)](https://www.npmjs.com/package/node-typhoon) [![npm](https://img.shields.io/npm/l/node-typhoon.svg?style=flat-square)](https://www.npmjs.com/package/node-typhoon)
 
 ## Installation
 
