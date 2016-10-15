@@ -3,16 +3,19 @@
 */
 
 'use strict';
-const Typhoon=require('node-typhoon');
+const Typhoon=require('../index.js');
 
 Typhoon.typhoonActivity().then(data=>{
-	console.log(data)
+	console.info("============typhoonActivity()===================");
+	console.log(data);
+	
 }).catch(err=>{
 	console.error(err)
 });
 
 Typhoon.typhoonList(2016).then(data=>{
-	console.log(data)
+	console.info("------------------typhoonList()-----------------");
+	console.log(data);
 }).catch(err=>{
-	console.error(err)
+	console.error(err);
 });
